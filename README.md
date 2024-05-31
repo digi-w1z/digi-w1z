@@ -1,1 +1,1 @@
-# Bonjour! My name is DigiWiz! I run a technology and 3D Printing centred YouTube channel
+<img src="https://github-readme-stats.digiw1z.vercel.app/api/top-langs/?username=digiw1z&layout=compact&theme=algolia"/>
