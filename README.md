@@ -1,1 +1,2 @@
-<img src="https://github-readme-stats.digiw1z.vercel.app/api/top-langs/?username=digiw1z&layout=compact&theme=algolia"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=digi-w1z&show_icons=true&theme=algolia)
+
