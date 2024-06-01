@@ -12,7 +12,7 @@ Highly motivated self taught programmer and electronic engineer. I have been mak
 
 <h4>Programs and Tools</h4>
 <p align="left>
-  <img style="margin: auto;" src="https://github.com/digi-w1z/digi-w1z/blob/main/assets/onshape_logo.png?raw=true" alt=onshape width="60"/>
+  <img style ="margin: auto; src="https://github.com/digi-w1z/digi-w1z/blob/main/assets/onshape_logo.png?raw=true" alt=onshape width="60"/>
   <img style="margin: auto;" src="https://github.com/digi-w1z/digi-w1z/blob/main/assets/orcaslicer-logo.png?raw=true" alt=orcaslicer width="60"/>
   <img style="margin: auto;" src="https://github.com/digi-w1z/digi-w1z/blob/main/assets/ultimaker-cura-logo.png?raw=true" alt=cura width="60"/>
 </p>
