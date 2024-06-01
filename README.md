@@ -7,15 +7,15 @@ I also am very ehtused about 3D Printing. I make all my own printed parts on Ons
 
 I am highly collaborative and can work easily in a team. Adept at working to a tight deadline
 
-<h4>Events/Community :houses:</h4>
+## Events/Community :houses:
 <ul style="list-style-type:disc;">
   <li><a href="https://coolestprojects.org">Coolest Projects 2024</a> (I won the Hardware Category with my project) :1st_place_medal:</li>
-  <li>Volunteer at Dungarvan Library (Helping to operate the library's 3D Printer)</li>
+  <li>Volunteer at Dungarvan Library (Helping to operate the library's 3D Printer) :classical_building:</li>
 </ul>
 
 <br>
 
-##Skills and Technologies:
+## Skills and Technologies:
 <ul style="list-style-type:disc;" align="left">
   <li>3D Printing</li>
   <li>CAD Modelling</li>
@@ -47,10 +47,10 @@ I am highly collaborative and can work easily in a team. Adept at working to a t
 
 <br>
 <h3 align="center">Latest Project</h3>
-  <p align="center">
+<br>
+<p align="center">
      <a href="https://github.com/digi-w1z/BTTF-Alarm-Clock">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=digi-w1z&repo=BTTF-Alarm-Clock&theme=algolia" />
      </a>
-  </p>
-<br/>   
+  </p
 
