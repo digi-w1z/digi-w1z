@@ -5,7 +5,7 @@ Highly motivated self taught programmer and electronic engineer. I have been mak
 
 <h4>Events/Community :houses:</h4>
 <ul style="list-style-type:disc;">
-  <li>Coolest Projects 2024</li>
+  <li><a href="https://coolestprojects.org">Coolest Projects 2024</a></li>
   <li>Volunteer at Dungarvan Library</li>
 </ul>
 
