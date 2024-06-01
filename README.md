@@ -5,8 +5,6 @@ Highly motivated self-taught programmer and electronics engineer. I am proficien
 I have been making electronic and programming projects for the past 3 years.
 I also am very ehtused about 3D Printing. I make all my own printed parts on Onshape.
 
-I am highly collaborative and can work easily in a team. Adept at working to a tight deadline
-
 ## Events/Community :houses:
 <ul style="list-style-type:disc;">
   <li><a href="https://coolestprojects.org">Coolest Projects 2024</a> (I won the Hardware Category with my project) :1st_place_medal:</li>
