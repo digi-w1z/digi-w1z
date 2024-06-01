@@ -5,9 +5,14 @@ Highly motivated self taught programmer and electronic engineer. I have been mak
 
 <h4>Events/Community :houses:</h4>
 <ul style="list-style-type:disc;">
-  <li><a href="https://coolestprojects.org">Coolest Projects 2024</a></li>
-  <li>Volunteer at Dungarvan Library</li>
+  <li><a href="https://coolestprojects.org">Coolest Projects 2024</a> (I won the Hardware Category with my project) :1st_place_medal:</li>
+  <li>Volunteer at Dungarvan Library (Helping to operate the library's 3D Printer)</li>
 </ul>
+
+<h4>Skills/Technologies:</h4>
+<ul style="list-style-type:disc;" align="left">
+  <li>3D Printing</li>
+  <li>3D CAD</li>
 
 <h4>Programming Languages: </h4>
 <p align="left">
