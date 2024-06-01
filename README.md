@@ -26,8 +26,10 @@ Highly motivated self taught programmer and electronic engineer. I have been mak
 
 <br>
 <h3 align="center">**Latest Project**</h3>
- <a href="https://github.com/digi-w1z/BTTF-Alarm-Clock">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=digi-w1z&repo=BTTF-Alarm-Clock&theme=algolia" />
- </a>
+<p align="cemter">
+   <a href="https://github.com/digi-w1z/BTTF-Alarm-Clock">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=digi-w1z&repo=BTTF-Alarm-Clock&theme=algolia" />
+   </a>
+</p>
 <br/>   
 
