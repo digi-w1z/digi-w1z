@@ -1,7 +1,11 @@
 <h1 align="center"> Hi, my name is Adam Crowe <h1/>
 
 ## About Me
-Highly motivated self taught programmer and electronic engineer. I have been making projects for the past 3 years
+Highly motivated self-taught programmer and electronics engineer. I am proficient in programming electronic circuits using both the Python and Arduino programming languages
+I have been making electronic and programming projects for the past 3 years.
+I also am very ehtused about 3D Printing. I make all my own printed parts on Onshape.
+
+I am highly collaborative and can work easily in a team. Adept at working to a tight deadline
 
 <h4>Events/Community :houses:</h4>
 <ul style="list-style-type:disc;">
@@ -11,12 +15,14 @@ Highly motivated self taught programmer and electronic engineer. I have been mak
 
 <br>
 
-<h4>Skills/Technologies:</h4>
+##Skills and Technologies:
 <ul style="list-style-type:disc;" align="left">
   <li>3D Printing</li>
-  <li>3D CAD Modelling</li>
+  <li>CAD Modelling</li>
   <li>Python</li>
   <li>Arudino Programming</li>
+  <li>Circuit Design</li>
+  <li>Electronic Aseembly</li>
 
 <h4>Programming Languages: </h4>
 <p align="left">
