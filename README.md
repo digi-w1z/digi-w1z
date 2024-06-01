@@ -24,6 +24,8 @@ I am highly collaborative and can work easily in a team. Adept at working to a t
   <li>Circuit Design</li>
   <li>Electronic Aseembly</li>
 
+<br>
+
 <h4>Programming Languages: </h4>
 <p align="left">
   <img style="margin: auto;" src="https://github.com/digi-w1z/digi-w1z/blob/main/assets/C++_logo.png?raw=true" alt=cplusplus width="60"/>
