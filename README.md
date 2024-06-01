@@ -9,10 +9,14 @@ Highly motivated self taught programmer and electronic engineer. I have been mak
   <li>Volunteer at Dungarvan Library (Helping to operate the library's 3D Printer)</li>
 </ul>
 
+<br>
+
 <h4>Skills/Technologies:</h4>
 <ul style="list-style-type:disc;" align="left">
   <li>3D Printing</li>
-  <li>3D CAD</li>
+  <li>3D CAD Modelling</li>
+  <li>Python</li>
+  <li>Arudino Programming</li>
 
 <h4>Programming Languages: </h4>
 <p align="left">
