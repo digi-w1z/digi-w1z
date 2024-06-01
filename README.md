@@ -13,8 +13,6 @@ I am highly collaborative and can work easily in a team. Adept at working to a t
   <li>Volunteer at Dungarvan Library (Helping to operate the library's 3D Printer) :classical_building:</li>
 </ul>
 
-<br>
-
 ## Skills and Technologies:
 <ul style="list-style-type:disc;" align="left">
   <li>3D Printing</li>
@@ -55,4 +53,3 @@ I am highly collaborative and can work easily in a team. Adept at working to a t
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=digi-w1z&repo=BTTF-Alarm-Clock&theme=algolia" />
      </a>
   </p
-
