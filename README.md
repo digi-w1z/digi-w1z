@@ -15,9 +15,19 @@ Highly motivated self taught programmer and electronic engineer. I have been mak
   <img style="margin: auto;" src="https://github.com/digi-w1z/digi-w1z/blob/main/assets/onshape_logo.png?raw=true" alt=onshape width="60"/>
   <img style="margin: auto;" src="https://github.com/digi-w1z/digi-w1z/blob/main/assets/orcaslicer-logo.png?raw=true" alt=orcaslicer width="60"/>
   <img style="margin: auto;" src="https://github.com/digi-w1z/digi-w1z/blob/main/assets/ultimaker-cura-logo.png?raw=true" alt=cura width="60"/>
+  <img style="margin: auto;" src="https://github.com/digi-w1z/digi-w1z/blob/main/assets/vscode_logo.png?raw=true" alt=vscode width="60"/>
+  <img style="margin: auto;" src="https://github.com/digi-w1z/digi-w1z/blob/main/assets/arduino_logo.png?raw=true" alt=arduino width="60"/>
+  <img style="margin: auto;" src="https://github.com/digi-w1z/digi-w1z/blob/main/assets/github_logo.png?raw=true" alt=github width="60"/>
 </p>
 
 <p align="center">
   <img style="margin: auto;" src="https://github-readme-stats.vercel.app/api?username=digi-w1z&show_icons=true&theme=algolia"/>
 </p>
+
+<br>
+<h3 align="center">**Latest Project**</h3>
+ <a href="https://github.com/digi-w1z/BTTF-Alarm-Clock">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=digi-w1z&repo=BTTF-Alarm-Clock&theme=algolia" />
+ </a>
+<br/>   
 
